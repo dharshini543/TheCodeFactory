@@ -5,15 +5,14 @@ class Calculator
 {
 public:
     Calculator();
-    int add(int num1, int num2);
-    int sub(int num1, int num2);
-    int mul(int num1, int num2);
-    int div(int num1, int num2);
-    int mod(int num1,  int num2);
+    ~Calculator();
 
-private:
-    int m_num1;
-    int m_num2;
+    void add(int num1, int num2);
+    void sub(int num1, int num2);
+    void mul(int num1, int num2);
+    void div(int num1, int num2);
+    void mod(int num1,  int num2);
+
 };
 
 #endif // CALCULATOR_H
