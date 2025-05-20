@@ -1,4 +1,6 @@
 #include "Calculator.h"
+#include <iostream>
+using namespace std;
 
 int main()
 {
@@ -8,6 +10,7 @@ int main()
     calc.mul(20 , 10);
     calc.div(20 , 10);
     calc.mod(20 , 10);
+    cout<<"Hello World"<<endl;
 
     return 0;
 }
