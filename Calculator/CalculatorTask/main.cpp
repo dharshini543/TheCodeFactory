@@ -12,6 +12,7 @@ int main()
     calc.mod(20 , 10);
     cout<<"Hlo world"<<endl;
     cout<<"Hello world"<<endl;
+    cout<<"Hello world"<<endl;
     cout<<"Hii"<<endl;
     return 0;
 }
