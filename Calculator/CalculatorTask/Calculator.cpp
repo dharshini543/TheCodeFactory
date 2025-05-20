@@ -36,5 +36,6 @@ void Calculator::div(int num1, int num2)
 void Calculator::mod(int num1, int num2)
 {
     cout<<"Remainder = "<<num1 % num2<<endl;
+    std::cout<<"Hello World!"<<std::endl;
 
 }
