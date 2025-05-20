@@ -10,10 +10,7 @@ int main()
     calc.mul(20 , 10);
     calc.div(20 , 10);
     calc.mod(20 , 10);
-    cout<<"Hello World"<<endl;
-    cout<<"Hello World"<<endl;
-    cout<<"Hello World"<<endl;
-    cout<<"Hello World"<<endl;
-
+    cout<<"Hlo world"<<endl;
+    cout<<"Hii"<<endl;
     return 0;
 }
