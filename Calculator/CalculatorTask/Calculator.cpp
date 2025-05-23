@@ -5,6 +5,8 @@ using namespace std;
 Calculator::Calculator()
 {
     cout<<"Calculator Constructor"<<endl;
+    cout<<"Calculator Destructor"<<endl;
+
 }
 
 Calculator::~Calculator()
