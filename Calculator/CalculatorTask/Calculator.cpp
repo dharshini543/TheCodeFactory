@@ -4,15 +4,12 @@ using namespace std;
 
 Calculator::Calculator()
 {
-    cout<<"Calculator Constructor"<<endl;
-    cout<<"Calculator Destructor"<<endl;
-
+    cout<<"Calculator Constructor called"<<endl;
 }
 
 Calculator::~Calculator()
 {
-    cout<<"Calculator Destructor"<<endl;
-    cout<<"Calculator Destructor"<<endl;
+    cout<<"Calculator Destructor called"<<endl;
 
 }
 
