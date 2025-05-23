@@ -10,6 +10,8 @@ Calculator::Calculator()
 Calculator::~Calculator()
 {
     cout<<"Calculator Destructor"<<endl;
+    cout<<"Calculator Destructor"<<endl;
+
 }
 
 void Calculator::add(int num1, int num2)
